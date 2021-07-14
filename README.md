@@ -25,6 +25,7 @@ William Li | 162332888 |
 Yuan ZhiSheng | 833011276 |
 Enigma Huang | 822231057 |
 Myon | 802746241 |
+Jason Lau | 190856639 |
 
 首位数字规则 | 区域
 --- | ---
